@@ -1,5 +1,5 @@
-## OM4A Training Organization
+## OM4A Training Material
 
-This Organization contains all the Training Material for the Models in the OpenMod4AFrica (OM4A) Project 
+This page contains all the Training Material for the Models in the OpenMod4AFrica (OM4A) Project 
 
 
