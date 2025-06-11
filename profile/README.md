@@ -80,8 +80,7 @@ To stay updated with OM4A activities visit the [OpenMod4Africa website](https://
 
 ---
 
-> *This repository is part of the OpenMod4Africa Horizon Europe project (Grant Agreement No. 101118123). <br>
-Funded by the European Union*
+> *This repository is part of the OpenMod4Africa Horizon Europe project (Grant Agreement No. 101118123).*
 <a href="https://www.openmod4africa.eu" target="_blank">
   <img src="https://openmod4africa.eu/wp-content/uploads/2023/08/EN_FundedbytheEU_RGB_NEG-1536x342.png"  height="35">
 </a>
