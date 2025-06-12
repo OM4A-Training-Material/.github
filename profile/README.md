@@ -70,7 +70,7 @@ We welcome collaboration! If you're interested in contributing to training devel
 
 To stay updated with OM4A activities visit the [OpenMod4Africa website](https://www.openmod4africa.eu) or follow us on:
 
-<a href="https://www.linkedin.com/company/OPENMOD4AFRICA" target="_blank">
+<a href="https://www.linkedin.com/company/openmod4africaeu" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="24">
 </a>
 <a href="https://twitter.com/OPENMOD4AFRICA" target="_blank">
