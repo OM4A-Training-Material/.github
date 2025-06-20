@@ -16,7 +16,7 @@ The project involves collaboration with stakeholders, engaged through a [African
 🛠 **GENeSYS-MOD**  
   A linear, open-source energy system model extending the OSeMOSYS framework. It enables integrated optimization of generation, dispatch, and sector coupling across electricity, buildings, transport, and industry.  
 
-🛠 **OpenTEPES**  
+🛠 **openTEPES**  
  The openTEPES model is a decision support system for defining the integrated generation, storage, and transmission expansion plan of a power system, though it can also be used to compute the expansion of certain technologies within that system, typically the transmission grid.
 
 🛠 **Plan4res**  
