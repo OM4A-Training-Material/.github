@@ -12,22 +12,22 @@ The project involves collaboration with stakeholders, engaged through a [African
 
 
 ## 🧰 Models in the Toolbox
-🛠 [**EV-PV**](https://github.com/OM4A-Training-Material/EV-PV-Training-Material)
+🛠 [**EV-PV**](https://github.com/OM4A-Training-Material/EV-PV-Training-Material)  
   A GIS-based planning model for electric vehicle charging infrastructure, developed within the Citiwatts platform. It supports geospatial planning for EV deployment aligned with solar PV integration.
 
-🛠 [**GENeSYS-MOD**](https://github.com/OM4A-Training-Material/GENeSYS-MOD-Training-Material)   
+🛠 [**GENeSYS-MOD**](https://github.com/OM4A-Training-Material/GENeSYS-MOD-Training-Material)    
   A linear, open-source energy system model extending the OSeMOSYS framework. It enables integrated optimization of generation, dispatch, and sector coupling across electricity, buildings, transport, and industry.  
 
-🛠️ [**InfraFair**](https://github.com/OM4A-Training-Material/InfraFair-Training-Material) 
+🛠️ [**InfraFair**](https://github.com/OM4A-Training-Material/InfraFair-Training-Material)  
   An open model for network cost allocation and tariff design. It estimates agent responsibility for infrastructure based on usage, with applicability to both electricity and other flow-based networks.
 
-🛠 [**OnSSET**](https://github.com/OM4A-Training-Material/OnSSET-Training-Material)
+🛠 [**OnSSET**](https://github.com/OM4A-Training-Material/OnSSET-Training-Material)  
   A spatial electrification planning tool using GIS data and demographic inputs to optimize least-cost pathways for universal electricity access in unserved areas.
   
-🛠 [**openTEPES**](https://github.com/OM4A-Training-Material/openTEPES-Training-Material)
+🛠 [**openTEPES**](https://github.com/OM4A-Training-Material/openTEPES-Training-Material)  
  The openTEPES model is a decision support system for defining the integrated generation, storage, and transmission expansion plan of a power system, though it can also be used to compute the expansion of certain technologies within that system, typically the transmission grid.
 
-🛠 [**Plan4res**](https://github.com/OM4A-Training-Material/plan4res-Training-Material)  
+🛠 [**Plan4res**](https://github.com/OM4A-Training-Material/plan4res-Training-Material)    
   A modular power system model supporting capacity expansion, seasonal storage management, and system operation simulations with interconnection representations.
 
 ## 🎓 Training Platform
