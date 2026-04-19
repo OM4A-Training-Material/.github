@@ -30,6 +30,9 @@ The project involves collaboration with stakeholders, engaged through a [African
 🛠 [**Plan4res**](https://github.com/OM4A-Training-Material/plan4res-Training-Material)    
   A modular power system model supporting capacity expansion, seasonal storage management, and system operation simulations with interconnection representations.
 
+🛠 [**GTFS4EV**](https://github.com/OM4A-Training-Material/gtfs4ev-Training-Material)    
+  An open-source Python tool designed to support the planning of public bus electrification using GTFS data. 
+
 ## 🎓 Training Platform
 
 The OM4A Training Platform provides a structured learning environment for:
